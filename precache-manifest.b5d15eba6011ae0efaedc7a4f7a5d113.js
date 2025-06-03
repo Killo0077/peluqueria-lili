@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8fb94cc988a9d8686712c3ed0760eb1",
+    "revision": "a105b1a529922d6c92e3e222062c6754",
     "url": "/peluqueria-lili/index.html"
   },
   {
-    "revision": "aa4a5d983343e1d9187e",
+    "revision": "585f81f57f430d6d8a7b",
     "url": "/peluqueria-lili/static/css/main.a252363d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/peluqueria-lili/static/js/2.1ed2d477.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa4a5d983343e1d9187e",
-    "url": "/peluqueria-lili/static/js/main.7d660370.chunk.js"
+    "revision": "585f81f57f430d6d8a7b",
+    "url": "/peluqueria-lili/static/js/main.2628dca0.chunk.js"
   },
   {
     "revision": "5c7fa177eb530be80f26",
