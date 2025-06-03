@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/peluqueria-lili/static/css/main.a252363d.chunk.css",
+    "main.js": "/peluqueria-lili/static/js/main.7d660370.chunk.js",
+    "main.js.map": "/peluqueria-lili/static/js/main.7d660370.chunk.js.map",
+    "runtime-main.js": "/peluqueria-lili/static/js/runtime-main.c75f2d60.js",
+    "runtime-main.js.map": "/peluqueria-lili/static/js/runtime-main.c75f2d60.js.map",
+    "static/js/2.1ed2d477.chunk.js": "/peluqueria-lili/static/js/2.1ed2d477.chunk.js",
+    "static/js/2.1ed2d477.chunk.js.map": "/peluqueria-lili/static/js/2.1ed2d477.chunk.js.map",
+    "index.html": "/peluqueria-lili/index.html",
+    "precache-manifest.731afafb66a4ff5ddc1b2b660ba2936c.js": "/peluqueria-lili/precache-manifest.731afafb66a4ff5ddc1b2b660ba2936c.js",
+    "service-worker.js": "/peluqueria-lili/service-worker.js",
+    "static/css/main.a252363d.chunk.css.map": "/peluqueria-lili/static/css/main.a252363d.chunk.css.map",
+    "static/js/2.1ed2d477.chunk.js.LICENSE.txt": "/peluqueria-lili/static/js/2.1ed2d477.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c75f2d60.js",
+    "static/js/2.1ed2d477.chunk.js",
+    "static/css/main.a252363d.chunk.css",
+    "static/js/main.7d660370.chunk.js"
+  ]
+}
