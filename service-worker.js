@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/peluqueria-lili/precache-manifest.b5d15eba6011ae0efaedc7a4f7a5d113.js"
+  "/peluqueria-lili/precache-manifest.5327d69e3ccdc7a57d9862e8c699c578.js"
 );
 
 self.addEventListener('message', (event) => {
