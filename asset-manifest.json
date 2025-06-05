@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/peluqueria-lili/static/css/main.5f81a62b.css",
-    "main.js": "/peluqueria-lili/static/js/main.eddc36d6.js",
+    "main.css": "/peluqueria-lili/static/css/main.5394b58a.css",
+    "main.js": "/peluqueria-lili/static/js/main.b98cd259.js",
     "index.html": "/peluqueria-lili/index.html",
-    "main.5f81a62b.css.map": "/peluqueria-lili/static/css/main.5f81a62b.css.map",
-    "main.eddc36d6.js.map": "/peluqueria-lili/static/js/main.eddc36d6.js.map"
+    "main.5394b58a.css.map": "/peluqueria-lili/static/css/main.5394b58a.css.map",
+    "main.b98cd259.js.map": "/peluqueria-lili/static/js/main.b98cd259.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f81a62b.css",
-    "static/js/main.eddc36d6.js"
+    "static/css/main.5394b58a.css",
+    "static/js/main.b98cd259.js"
   ]
 }
